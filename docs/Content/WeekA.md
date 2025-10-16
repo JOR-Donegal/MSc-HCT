@@ -4,6 +4,8 @@ Go through my [Getting Started](https://johnoraw-education.gitbook.io/iac/gettin
 
 In the teaching sessions this week, I get you started with a hypervisor and images.
 
+This module is taught on site/in person, you can carry out all the work in PR2289.
+
 ## Computer Requirements
 
 You need to decide which type of device is most suitable for you.&#x20;
