@@ -1,2 +1,2 @@
-# MSc-HCT
-Hybrid Cloud Technology module for MSc Cloud
+# HCT
+Landing page for hybrid cloud material
